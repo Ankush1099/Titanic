@@ -21,5 +21,5 @@ vi) parch(# of parents / children aboard the Titanic)
 vii) ticket(Ticket number)	
 viii) fare(Passenger fare)
 ix) cabin(Cabin number)	
-x) embarked(Port of Embarkation: C = Cherbourg, Q = Queenstown, S = Southampton)
+x) embarked(Port of Embarkation: C = Cherbourg, Q = Queenstown, S = Southampton).
 
