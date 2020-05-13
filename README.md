@@ -11,14 +11,14 @@ Gender_submission.csv, a set of predictions that assume all and only female pass
 
 Data Dictionary ->
 	                                     
-i)survival(0 = No, 1 = Yes)
-ii)pclass	(Ticket class: 1 = 1st, 2 = 2nd, 3 = 3rd)
-iii)sex	
-iv)Age(Age in years)	
-v)sibsp(# of siblings / spouses aboard the Titanic)	
-vi)parch(# of parents / children aboard the Titanic)	
-vii)ticket(Ticket number)	
-viii)fare(Passenger fare)
-ix)cabin(Cabin number)	
-x)embarked(Port of Embarkation: C = Cherbourg, Q = Queenstown, S = Southampton)
+i) survival(0 = No, 1 = Yes)
+ii) pclass	(Ticket class: 1 = 1st, 2 = 2nd, 3 = 3rd)
+iii) sex	
+iv) Age(Age in years)	
+v) sibsp(# of siblings / spouses aboard the Titanic)	
+vi) parch(# of parents / children aboard the Titanic)	
+vii) ticket(Ticket number)	
+viii) fare(Passenger fare)
+ix) cabin(Cabin number)	
+x) embarked(Port of Embarkation: C = Cherbourg, Q = Queenstown, S = Southampton)
 
